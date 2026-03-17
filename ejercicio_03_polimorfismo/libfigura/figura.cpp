@@ -1,7 +1,7 @@
 /**
  * @file figura.cpp
- * 
- * @brief Implementación de la clase base abstracta Figura. 
+ *
+ * @brief Implementación de la clase base abstracta Figura.
  */
 
 #include <libfigura/figura.hpp>

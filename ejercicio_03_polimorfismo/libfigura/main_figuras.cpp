@@ -1,8 +1,7 @@
+#include <iostream>
 #include <libfigura/circulo.hpp>
 #include <libfigura/figura.hpp>
 #include <libfigura/rectangulo.hpp>
-
-#include <iostream>
 
 int main() {
   std::cout << "=== Sistema de Figuras Geométricas (Polimorfismo) ==="
